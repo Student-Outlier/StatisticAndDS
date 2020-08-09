@@ -1,2 +1,0 @@
-# StatisticAndDS
-Conteúdos de DS
