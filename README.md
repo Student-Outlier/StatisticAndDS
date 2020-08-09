@@ -8,4 +8,6 @@ test
 
 $\hat{y} = \beta_{0} + \beta_{1}\cdot x$
 
-* tópico
+* tópico 1
+
+* tópico 2
