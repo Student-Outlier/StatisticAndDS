@@ -6,7 +6,7 @@
 
 # Quiz:
 
-* **O que você acha que significa o termo Big Data?**
+* **O que descreve o termo Big Data?**
 
     A) um único banco de dados grande
 
@@ -14,7 +14,7 @@
 
     C) conceito que descreve um grande volume de dados, apenas estruturados
 
-* **Vocẽ acha que criatividade é necessária para se trabalhar com ciência de dados ?**
+* **Criatividade é necessária para se trabalhar com ciência de dados ?**
   
     A) Sim <Correto>
 
