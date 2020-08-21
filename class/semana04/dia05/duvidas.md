@@ -1,0 +1,1 @@
+# Manda tua dúvida/curiosidade aee
